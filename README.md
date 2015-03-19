@@ -1,0 +1,2 @@
+# nxutil
+naxsi whitelist creation
