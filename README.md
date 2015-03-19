@@ -1,5 +1,6 @@
 # nxutil
 naxsi whitelist creation
+
 python setup.py install
 
 Usage:
